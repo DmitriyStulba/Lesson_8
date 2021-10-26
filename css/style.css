@@ -335,7 +335,7 @@ span {
 	background-color: #F5F5F5;
 	padding: 50px;
 	margin: 0px auto 30px auto;
-	width: 45%;
+	max-width: 1120px;
 }
 
 .maket_block1 h3 {
